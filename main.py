@@ -25,8 +25,5 @@ def calculator(number1,  number2, op):
     else:
         print("Oops, please reset your account!")
 
-    #print(f"The result is {result}")
 
 calculator (number1, number2, op)
-#calculator()
-# %%
