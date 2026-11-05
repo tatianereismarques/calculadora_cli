@@ -1,5 +1,5 @@
 # Calculadora CLI Interativa
-Implementação de uma calcladora em linha de comando, desenvolvida em Python. Reune as principais operações matemáticas, projetada para realizar cálculos contínuos. 
+Implementação de uma calculadora em linha de comando, desenvolvida em Python. Reune as principais operações matemáticas, projetada para realizar cálculos contínuos. 
 
 # Recursos utilizados:
 * Python (linguagem de programação).
